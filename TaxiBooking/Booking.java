@@ -68,6 +68,7 @@ public class Booking
 
                 // creating trip detail
                 tripDetail = customerID + "               " + customerID + "          " + pickupPoint +  "      " + dropPoint + "       " + pickupTime + "          " +dropTime + "           " + earning;
+                min = distanceBetweenCustomerAndTaxi;
             }
             
         }
