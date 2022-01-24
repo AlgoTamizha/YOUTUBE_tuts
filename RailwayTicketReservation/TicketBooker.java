@@ -75,9 +75,9 @@ public class TicketBooker
     {
         //remove the passenger from the map
         Passenger p = passengers.get(passengerId);
-        passengers.remove(passengerId);
+        passengers.remove(Integer.valueOf(passengerId));
         //remove the booked ticket from the list
-        bookedTicketList.remove(passengerId);
+        bookedTicketList.remove(Integer.valueOf(passengerId));
 
         //take the booked position which is now free
         int positionBooked = p.number;
@@ -108,7 +108,7 @@ public class TicketBooker
             Passenger passengerFromRAC = passengers.get(racList.poll());
             int positionRac = passengerFromRAC.number;
             racPositions.add(positionRac);
-            racList.remove(passengerFromRAC.passengerId);
+            racList.remove(Integer.valueOf(passengerFromRAC.passengerId));
             availableRacTickets++;
 
             //check if any WL is there
@@ -119,7 +119,7 @@ public class TicketBooker
                 Passenger passengerFromWaitingList = passengers.get(waitingList.poll());
                 int positionWL = passengerFromWaitingList.number;
                 waitingListPositions.add(positionWL);
-                waitingList.remove(passengerFromWaitingList.passengerId);
+                waitingList.remove(Integer.valueOf(passengerFromWaitingList.passengerId));
 
                 passengerFromWaitingList.number = racPositions.get(0);
                 passengerFromWaitingList.alloted = "RAC";
