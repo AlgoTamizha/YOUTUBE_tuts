@@ -3,12 +3,14 @@ import java.util.Scanner;
 public class HollowStar {
     public static void main(String[] args) {
       Scanner s = new Scanner(System.in);
+        System.out.println("Enter any odd number");
       int n = s.nextInt();
       if(n%2==0)
       {
         System.out.println("Enter only odd number");
-        return;
+        
       }
+        n = s.nextInt();
       int outside_space = n/2;
       int inside_space = 1;
       for(int i=0;i<n;i++)
