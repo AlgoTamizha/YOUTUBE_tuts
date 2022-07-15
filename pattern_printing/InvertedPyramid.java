@@ -4,6 +4,7 @@ public class InvertedPyramid {
     public static void main(String[] args) {
       
       Scanner s = new Scanner(System.in);
+         System.out.println("Enter any number for the Pyramid's Height");
       int n = s.nextInt();
       
       int stars = 2 * n -1;
