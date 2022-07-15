@@ -2,6 +2,7 @@
 int main()
 {
     int x;
+    printf("Enter a number to form a Butterfly");
     scanf("%d",&x);
     int spaces = 2 * x - 2;
     for(int i = 1; i <= x;i++)
