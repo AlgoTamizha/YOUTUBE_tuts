@@ -10,7 +10,7 @@ Trapping rain water,,Hard,https://youtu.be/Ihuo_UJKrkU,https://leetcode.com/prob
 Best Time to Buy and Sell Stock,Sliding Window,Easy,https://youtu.be/dWuXFQigIuQ,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 Longest Substring Without Repeating Characters,,Medium,https://youtu.be/sQJ2KH1CWg4,https://leetcode.com/problems/longest-substring-without-repeating-characters/
 Permutation in String,,Medium,https://youtu.be/D3k7RxFz3Ho,https://leetcode.com/problems/permutation-in-string/
-?inimum Window Substring,,Hard,,https://leetcode.com/problems/minimum-window-substring/
+Minimum Window Substring,,Hard,,https://leetcode.com/problems/minimum-window-substring/
 Valid Paranthesis,Stack,Easy,https://youtu.be/UNNM46ZzcuY,https://leetcode.com/problems/valid-parentheses/
 Daily Temperature,,Medium,,https://leetcode.com/problems/daily-temperatures/
 Car Fleet,,Medium,https://youtu.be/wUoNoM2U6nI,https://leetcode.com/problems/car-fleet/
@@ -18,14 +18,14 @@ Largest Recangle in Histogram,,Hard,,https://leetcode.com/problems/largest-recta
 Binary Search,Binary Search,Easy,https://youtu.be/dV5YoeoFEVs,https://leetcode.com/problems/binary-search/
 Search a 2D matrix,,Medium,,https://leetcode.com/problems/search-a-2d-matrix/
 Capacity To Ship Packages Within D Days,,Medium,https://youtu.be/UyQxOk3eX74,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
-?edian of Two Sorted Arrays,,Hard,,https://leetcode.com/problems/median-of-two-sorted-arrays/
+Median of Two Sorted Arrays,,Hard,,https://leetcode.com/problems/median-of-two-sorted-arrays/
 Reverse linked list,Linked List,Easy,https://youtu.be/0tyBEURbEFA,https://leetcode.com/problems/reverse-linked-list/
 Merge two sorted lists,,Medium,,https://leetcode.com/problems/merge-two-sorted-lists/
 Copy list with random pointer,,Medium,,https://leetcode.com/problems/copy-list-with-random-pointer/
 Merge k sorted lists,,Hard,,https://leetcode.com/problems/merge-k-sorted-lists/
 Reverse nodes in k group,,Hard,,https://leetcode.com/problems/reverse-nodes-in-k-group/
 Insert Interval,Intervals,Medium,,https://leetcode.com/problems/insert-interval/
-Merge Intervals,,Medium,,https://leetcode.com/problems/merge-intervals/
+Merge Intervals,,Medium,https://youtu.be/OxCNn3Z8iPc,https://leetcode.com/problems/merge-intervals/
 Non overlapping intervals,,Medium,,https://leetcode.com/problems/non-overlapping-intervals/
 Kth Largest element in an array,Heap,Easy,https://youtu.be/JvW6GIQAggE,https://leetcode.com/problems/kth-largest-element-in-an-array/
 Last Stone weight,,Easy,https://youtu.be/bWdbZp5Ef2s,https://leetcode.com/problems/last-stone-weight/
