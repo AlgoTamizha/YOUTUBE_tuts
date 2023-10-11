@@ -137,6 +137,7 @@ public class Main
                     int age = s.nextInt();
                     //get berth preference (L,U,M)
                     String berthPreference = s.next();
+                    berthPreference = berthPreference.toUpperCase();
                     //create a passenger object
                     Passenger p = new Passenger(name,age,berthPreference);
                     //booking
